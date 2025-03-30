@@ -1,3 +1,3 @@
 # apnacollege-demo
-This is my first Repository <br>
+This is my first Git Repository <br>
 Author - Nilesh Gawhale
